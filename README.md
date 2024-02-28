@@ -1,2 +1,2 @@
 # Git Demo
-## Spring 2024
+## A Git Demo Project for CSC324 in Spring 2024
